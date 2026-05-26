@@ -86,7 +86,7 @@ Repository: https://github.com/ivanfarm/embedded-sensor-control-system
 ### Linux Server Deployment Notes
 A documentation-based project covering Linux server setup, Apache, Docker, PM2, HTTPS and reverse proxy configuration.
 
-Status: planned
+Repository: https://github.com/ivanfarm/linux-server-deployment-notes
 
 ## Education
 
