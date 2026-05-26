@@ -69,16 +69,24 @@ Used Git, GitHub and GitHub Classroom for academic submissions, repository manag
 ## Featured Projects
 
 ### C++ Log Analyzer
-A command-line C++ tool for analyzing software logs, detecting warnings and errors, and generating debugging reports.
+A command-line C++ tool for analyzing software logs, detecting warnings and errors, generating a debugging report and saving the result into an output file.
 
-### AI-Assisted Debugging Project
-A small software project focused on using AI tools to analyze code, identify issues, improve structure and support testing.
+Repository: https://github.com/ivanfarm/cpp-log-analyzer
+
+### AI-Assisted Debugging Notes
+A small C++ case study showing how AI tools can support code review, debugging, refactoring and manual test planning.
+
+Repository: https://github.com/ivanfarm/ai-assisted-debugging-notes
 
 ### Embedded Sensor Control System
-An embedded systems project based on Arduino and ESP8266, including sensor data handling, compass-based turning logic, motor control and serial debugging.
+An embedded systems project based on Arduino and ESP8266, including sensor data handling, motor control, compass-based turning logic and serial debugging.
+
+Repository: https://github.com/ivanfarm/embedded-sensor-control-system
 
 ### Linux Server Deployment Notes
 A documentation-based project covering Linux server setup, Apache, Docker, PM2, HTTPS and reverse proxy configuration.
+
+Status: planned
 
 ## Education
 
